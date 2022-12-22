@@ -1,1 +1,3 @@
-# emotion-recognition
+# Emotion Recognition using Convolutional Neural Networks
+
+dqjbduqwbubwbwuwf
